@@ -1,0 +1,9 @@
+{
+  "deduplicateUrls": true,
+  "ignoreFileProperty": true,
+  "useAlias": true,
+  "showFavicon": true,
+  "showIndicatorIcon": true,
+  "cacheMode": "diskCache",
+  "noticeMode": "both"
+}

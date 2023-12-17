@@ -1,0 +1,14 @@
+{
+  "headingGaps": {
+    "beforeTopLevelHeadings": "3",
+    "beforeFirstSubHeading": "2",
+    "beforeSubHeadings": "2"
+  },
+  "otherGaps": {
+    "afterProperties": "2",
+    "beforeContents": "0",
+    "beforeContentsAfterCodeBlocks": "1",
+    "beforeCodeBlocks": "1",
+    "beforeCodeBlocksAfterHeadings": "0"
+  }
+}

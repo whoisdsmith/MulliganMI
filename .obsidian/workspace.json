@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "1df681d52c94f9b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa64a0327b7c532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5621a85b6944b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mulligan Site/Home.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c2d7bf6cbfefc44",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bf250db085be0fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67cbe19d9aeecf72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ab58fc767f4cd4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "f84b463af2d5d01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "38786571e24c51a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c497042b6b094d11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mulligan Site/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66a9e0f04900ec3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mulligan Site/Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02947e4cf5f85774",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51f86fc4057e5ba7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "6061f39206a4e691",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mulligan Site/Home.md"
+              }
+            }
+          },
+          {
+            "id": "894ff83062fbee31",
+            "type": "leaf",
+            "state": {
+              "type": "url-display",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "mixa:Publish to mulliganmi.mixa.site with Mixa": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "bulk-exporter:Bulk Exporter Preview": false,
+      "obsidian42-brat:BRAT": false,
+      "url-display:Open URL pane": false,
+      "formatto-format:Format Document": false
+    }
+  },
+  "active": "b5621a85b6944b49",
+  "lastOpenFiles": [
+    "Mulligan Site/Images/Albums.md",
+    "Mulligan Site/Images/Albums/mullre.png",
+    "Mulligan Site/Pages/Photos.md",
+    "Mulligan Site/Images/Albums/mullre5.png",
+    "Mulligan Site/Images/Albums/mullre4.png",
+    "Mulligan Site/Images/Albums/mullre3.png",
+    "Mulligan Site/Images/Albums/mullre2.png",
+    "Mulligan Site/Images/Albums/mullre9.jpg",
+    "Mulligan Site/Images/Albums/mullre8.jpg",
+    "Mulligan Site/Images/Albums/mullre7.jpg",
+    "Mulligan Site/Images/Albums/mullre6.jpg",
+    "Mulligan Site/Releases/Brothers In Arms/Collateral.md",
+    "Mulligan Site/Releases/Brothers In Arms/Is A Promise Kept.md",
+    "Mulligan Site/Releases/Brothers In Arms/State Lines.md",
+    "Mulligan Site/Releases/Brothers In Arms/The Sounds Of Pages Turning.md",
+    "Mulligan Site/Releases/Brothers In Arms/A Homecoming.md",
+    "Mulligan Site/Releases/Brothers In Arms/Blood In, Blood Out.md",
+    "Mulligan Site/Releases/Brothers In Arms/Brothers In Arms.md",
+    "Mulligan Site/Home.md",
+    "Mulligan Site/Pages/Web Archives.md",
+    "Mulligan Site/Pages/Streaming.md",
+    "Mulligan Site/Pages/Releases.md",
+    "Mulligan Site/Releases/GVB/Grey VS Black.md",
+    "Mulligan Site/Releases/HOF/HOF.md",
+    "Mulligan Site/Releases/So Long Happiness/So Long Happiness.md",
+    "Mulligan Site/Pages/Tour.md",
+    "Mulligan Site/Tour/CD Release Party.md",
+    "Mulligan Site/Pages/PDF Archives.md",
+    "Mulligan Site/Pages/News.md",
+    "Mulligan Site/Pages/Articles.md",
+    "Mulligan Site/Pages/About.md",
+    "Mulligan Site/Images/Promo.md",
+    "Mulligan Site/Images/Promo/300515_2131854408808_5266770_n.jpg",
+    "Mulligan Site/Images/Press.md",
+    "Mulligan Site/Images/Posters.md",
+    "Mulligan Site/Tour",
+    "Saved Webpages/Articles/West Michigan Music2.html",
+    "Saved Webpages/Articles/Interview with Mulligan.html",
+    "Saved Webpages/Articles/In the spotlight Mulligan headlines college music night.html",
+    "Saved Webpages/Articles/Mulligan takes its last swing.html",
+    "Saved Webpages/Articles/West Michigan Music - Content.html",
+    "Saved Webpages/Articles/West Michigan Music.html",
+    "Saved Webpages/The Tides Of Blackheart Bay by Mulligan _ a‐tisket_ A multi‐source seeder for MusicBrainz.html",
+    "Mulligan Site",
+    "attachment"
+  ]
+}

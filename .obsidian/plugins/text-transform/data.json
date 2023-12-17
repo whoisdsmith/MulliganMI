@@ -1,0 +1,11 @@
+{
+  "titleCaseIgnore": [
+    ""
+  ],
+  "wordBoundaryChars": [
+    " ",
+    "\t"
+  ],
+  "snakeUseBoundaryChars": false,
+  "kebabUseBoundaryChars": false
+}
